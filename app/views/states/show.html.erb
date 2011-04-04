@@ -1,14 +1,7 @@
 <p id="notice"><%= notice %></p>
 
-<p>
-  <b>Name:</b>
-  <%= @state.name %>
-</p>
+<h2>Select your County in <%= @state.name %></h2>
 
-<p>
-  <b>Abreviation:</b>
-  <%= @state.abreviation %>
-</p>
 <% @counties.each do |county| %>
 <%= link_to(county_path(county)) do %>
 <p> <%= county.name %></p>
