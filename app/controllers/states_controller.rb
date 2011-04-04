@@ -14,6 +14,8 @@ class StatesController < ApplicationController
   # GET /states/1.xml
   def show
     @state = State.find(params[:id])
+		@counties = County.returncounty(params[:id])
+
 
     respond_to do |format|
       format.html # show.html.erb

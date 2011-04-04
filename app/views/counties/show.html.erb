@@ -1,14 +1,11 @@
 <p id="notice"><%= notice %></p>
 
-<p>
-  <b>Name:</b>
-  <%= @county.name %>
-</p>
+<h1><%= @county.name %> </h1>
+<% if @county.coordinator.firstname %>
+<h2>Connect With County Coordinator <%= @county.coordinator.firstname %> <%= @county.coordinator.lastname %></h2>
+<p><%= @county.coordinator.email %><%= @county.coordinator.phone_mobile %></p>
+<% end %>
 
-<p>
-  <b>State:</b>
-  <%= @county.state_id %>
-</p>
 
 
 <%= link_to 'Edit', edit_county_path(@county) %> |
