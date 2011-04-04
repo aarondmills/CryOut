@@ -1,10 +1,10 @@
 <p id="notice"><%= notice %></p>
 
-<h1><%= @county.name %> - <%= @county.state.name %> </h1>
+<h1><%= @county.name %> - <%= @county.state.name %> </h1><hr /><br />
 <% unless @county.coordinator.nil? || @county.coordinator == 0 %>
 <h3>Connect With County Coordinator <%= @county.coordinator.firstname %> <%= @county.coordinator.lastname %></h3>
 <p>Would you like to get involved in <%= @county.name %>? We would love your help. Please contact <%= @county.coordinator.firstname %> <%= @county.coordinator.lastname %> using one of the methods below. 
-<p><% unless @county.coordinator.email.nil? %>Email <%= @county.coordinator.firstname %>: <a href="<%= @county.coordinator.email %>"><%= @county.coordinator.email %></a><% end %><br /> <% unless @county.coordinator.phone_home.nil? %>Home Phone: <%= @county.coordinator.phone_home %><% end %></p>
+<p><% unless @county.coordinator.email.nil? %>Email <%= @county.coordinator.firstname %>: <a href="mailto:<%= @county.coordinator.email %>"><%= @county.coordinator.email %></a><% end %><br /> <% unless @county.coordinator.phone_home.nil? %>Home Phone: <%= @county.coordinator.phone_home %><% end %></p>
 <% else %>
 <h2>Your County Still Needs A Coordinator!</h2>
 <h2>
