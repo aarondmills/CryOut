@@ -1,0 +1,47 @@
+require 'csv'
+CSV.open('statenames.csv', 'r').each do |row|
+  State.find_or_create_by_name_and_abreviation(row[0],row[1])
+end
+
+newuser = User.new
+newstate = State.find_by_abreviation(row[5])
+newuser.firstname = "Aaron"
+newuser.lastname = "Aaron"
+newuser.email = "kasja@aaron.com"
+newuser.state_id = newstate.id
+newuser.save 
+
+
+
+
+
+
+require 'csv'
+
+CSV.open('coordinators.csv', 'r').each do |row|
+  abreviation = row[4]
+  mystate = State.find_by_abreviation(abreviation)
+	county = row[3]
+	mycounty = County.find_by_name(county)
+	popuser = mycounty.build_user(:firstname => row[5], :lastname => row[6], :email => row[12], :street => row[13], :city => row[14], :zipcode => row[16])
+popuser.state = mystate
+popuser.save
+end
+
+
+require 'csv'
+
+CSV.open('coordinators.csv', 'r' ).each do |row|
+  abreviation = row[4]
+  mysstate = State.find_by_abreviation(abreviation)
+  stateidhere = mysstate.id
+	County.create(:name => row[3], :state_id => stateidhere)
+end
+
+tr -d '\n' COA_coordinators_02162011.csv fire_new.csv 
+
+
+@ic = County.find(1)
+aaron = @ic.build_user
+aaron.save
+

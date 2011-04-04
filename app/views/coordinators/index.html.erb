@@ -1,0 +1,43 @@
+<h1>Listing coordinators</h1>
+
+<table>
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Email</th>
+    <th>Street</th>
+    <th>City</th>
+    <th>Zipcode</th>
+    <th>Phone home</th>
+    <th>Phone mobile</th>
+    <th>Phone work</th>
+    <th>State</th>
+    <th>County</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @coordinators.each do |coordinator| %>
+  <tr>
+    <td><%= coordinator.firstname %></td>
+    <td><%= coordinator.lastname %></td>
+    <td><%= coordinator.email %></td>
+    <td><%= coordinator.street %></td>
+    <td><%= coordinator.city %></td>
+    <td><%= coordinator.zipcode %></td>
+    <td><%= coordinator.phone_home %></td>
+    <td><%= coordinator.phone_mobile %></td>
+    <td><%= coordinator.phone_work %></td>
+    <td><%= coordinator.state_id %></td>
+    <td><%= coordinator.county_id %></td>
+    <td><%= link_to 'Show', coordinator %></td>
+    <td><%= link_to 'Edit', edit_coordinator_path(coordinator) %></td>
+    <td><%= link_to 'Destroy', coordinator, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Coordinator', new_coordinator_path %>

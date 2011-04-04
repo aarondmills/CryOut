@@ -1,0 +1,60 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Firstname:</b>
+  <%= @coordinator.firstname %>
+</p>
+
+<p>
+  <b>Lastname:</b>
+  <%= @coordinator.lastname %>
+</p>
+
+<p>
+  <b>Email:</b>
+  <%= @coordinator.email %>
+</p>
+
+<p>
+  <b>Street:</b>
+  <%= @coordinator.street %>
+</p>
+
+<p>
+  <b>City:</b>
+  <%= @coordinator.city %>
+</p>
+
+<p>
+  <b>Zipcode:</b>
+  <%= @coordinator.zipcode %>
+</p>
+
+<p>
+  <b>Phone home:</b>
+  <%= @coordinator.phone_home %>
+</p>
+
+<p>
+  <b>Phone mobile:</b>
+  <%= @coordinator.phone_mobile %>
+</p>
+
+<p>
+  <b>Phone work:</b>
+  <%= @coordinator.phone_work %>
+</p>
+
+<p>
+  <b>State:</b>
+  <%= @coordinator.state_id %>
+</p>
+
+<p>
+  <b>County:</b>
+  <%= @coordinator.county_id %>
+</p>
+
+
+<%= link_to 'Edit', edit_coordinator_path(@coordinator) %> |
+<%= link_to 'Back', coordinators_path %>

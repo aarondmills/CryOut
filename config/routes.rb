@@ -1,4 +1,8 @@
 Cryout::Application.routes.draw do
+  resources :coordinators
+
+  resources :counties
+
   resources :states
 
   devise_for :users

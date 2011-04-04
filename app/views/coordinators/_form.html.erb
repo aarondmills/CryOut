@@ -1,0 +1,61 @@
+<%= form_for(@coordinator) do |f| %>
+  <% if @coordinator.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@coordinator.errors.count, "error") %> prohibited this coordinator from being saved:</h2>
+
+      <ul>
+      <% @coordinator.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :firstname %><br />
+    <%= f.text_field :firstname %>
+  </div>
+  <div class="field">
+    <%= f.label :lastname %><br />
+    <%= f.text_field :lastname %>
+  </div>
+  <div class="field">
+    <%= f.label :email %><br />
+    <%= f.text_field :email %>
+  </div>
+  <div class="field">
+    <%= f.label :street %><br />
+    <%= f.text_field :street %>
+  </div>
+  <div class="field">
+    <%= f.label :city %><br />
+    <%= f.text_field :city %>
+  </div>
+  <div class="field">
+    <%= f.label :zipcode %><br />
+    <%= f.text_field :zipcode %>
+  </div>
+  <div class="field">
+    <%= f.label :phone_home %><br />
+    <%= f.text_field :phone_home %>
+  </div>
+  <div class="field">
+    <%= f.label :phone_mobile %><br />
+    <%= f.text_field :phone_mobile %>
+  </div>
+  <div class="field">
+    <%= f.label :phone_work %><br />
+    <%= f.text_field :phone_work %>
+  </div>
+  <div class="field">
+    <%= f.label :state_id %><br />
+    <%= f.text_field :state_id %>
+  </div>
+  <div class="field">
+    <%= f.label :county_id %><br />
+    <%= f.text_field :county_id %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

@@ -10,7 +10,30 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20110404015201) do
+ActiveRecord::Schema.define(:version => 20110404023716) do
+
+  create_table "coordinators", :force => true do |t|
+    t.string   "firstname"
+    t.string   "lastname"
+    t.string   "email"
+    t.string   "street"
+    t.string   "city"
+    t.string   "zipcode"
+    t.string   "phone_home"
+    t.string   "phone_mobile"
+    t.string   "phone_work"
+    t.integer  "state_id"
+    t.integer  "county_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "counties", :force => true do |t|
+    t.string   "name"
+    t.integer  "state_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
 
   create_table "rails_admin_histories", :force => true do |t|
     t.string   "message"
