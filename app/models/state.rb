@@ -1,6 +1,6 @@
 class State < ActiveRecord::Base
 	has_many :counties
-	has_many :users
+	has_many :coordinators
 
-	accepts_nested_attributes_for :counties, :users
+	accepts_nested_attributes_for :counties, :coordinators
 end
