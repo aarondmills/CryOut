@@ -1,25 +1,9 @@
-<h1>Listing states</h1>
+<h1>Select Your State</h1>
 
-<table>
-  <tr>
-    <th>Name</th>
-    <th>Abreviation</th>
-    <th></th>
-    <th></th>
-    <th></th>
-  </tr>
 
 <% @states.each do |state| %>
-  <tr>
-    <td><%= state.name %></td>
-    <td><%= state.abreviation %></td>
-    <td><%= link_to 'Show', state %></td>
-    <td><%= link_to 'Edit', edit_state_path(state) %></td>
-    <td><%= link_to 'Destroy', state, :confirm => 'Are you sure?', :method => :delete %></td>
-  </tr>
+<%= link_to(state) do %>
+<p> <%= state.name %></p>
 <% end %>
-</table>
-
-<br />
-
+<% end %>
 <%= link_to 'New State', new_state_path %>

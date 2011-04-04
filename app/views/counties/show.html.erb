@@ -1,12 +1,25 @@
 <p id="notice"><%= notice %></p>
 
-<h1><%= @county.name %> </h1>
-<% if @county.coordinator.firstname %>
-<h2>Connect With County Coordinator <%= @county.coordinator.firstname %> <%= @county.coordinator.lastname %></h2>
-<p><%= @county.coordinator.email %><%= @county.coordinator.phone_mobile %></p>
+<h1><%= @county.name %> - <%= @county.state.name %> </h1>
+<% unless @county.coordinator.nil? || @county.coordinator == 0 %>
+<h3>Connect With County Coordinator <%= @county.coordinator.firstname %> <%= @county.coordinator.lastname %></h3>
+<p>Would you like to get involved in <%= @county.name %>? We would love your help. Please contact <%= @county.coordinator.firstname %> <%= @county.coordinator.lastname %> using one of the methods below. 
+<p><% unless @county.coordinator.email.nil? %>Email <%= @county.coordinator.firstname %>: <a href="<%= @county.coordinator.email %>"><%= @county.coordinator.email %></a><% end %><br /> <% unless @county.coordinator.phone_home.nil? %>Home Phone: <%= @county.coordinator.phone_home %><% end %></p>
+<% else %>
+<h2>Your County Still Needs A Coordinator!</h2>
+<p>You can read about <a href="http://www.sandboxlaboratory.com/awakingamerica/index.php/county_coordinator">County Coordinator Ministry Expectations.</a> before you signup here</p>
+<script type="text/javascript">var host = (("https:" == document.location.protocol) ? "https://secure." : "http://");document.write(unescape("%3Cscript src='" + host + "wufoo.com/scripts/embed/form.js' type='text/javascript'%3E%3C/script%3E"));</script>
+
+<script type="text/javascript">
+var m7p1a7 = new WufooForm();
+m7p1a7.initialize({
+'userName':'socialmedia101', 
+'formHash':'m7p1a7', 
+'autoResize':true,
+'height':'907', 
+'ssl':true});
+m7p1a7.display();
+</script>
 <% end %>
 
-
-
-<%= link_to 'Edit', edit_county_path(@county) %> |
-<%= link_to 'Back', counties_path %>
+<%= link_to 'Back', states_path %>
