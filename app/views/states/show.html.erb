@@ -1,7 +1,6 @@
 <p id="notice"><%= notice %></p>
 
 <h2>Select your County in <%= @state.name %></h2>
-
 <% @counties.each do |county| %>
 <%= link_to(county_path(county)) do %>
 <p> <%= county.name %></p>

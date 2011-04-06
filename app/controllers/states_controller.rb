@@ -14,7 +14,7 @@ class StatesController < ApplicationController
   # GET /states/1.xml
   def show
     @state = State.find(params[:id])
-		@counties = County.returncounty(params[:id])
+		@counties = County.returncounty(params[:id]).sort_by(&:name) 
 
 
     respond_to do |format|
