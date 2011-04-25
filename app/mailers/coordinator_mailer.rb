@@ -9,4 +9,5 @@ class CoordinatorMailer < ActionMailer::Base
 	def registration_notification(coordinator)
 		@coordinator = coordinator
 		mail(:to => 'lwood@awakeningamerica.us', :subject => "Coordinator Signup Notification: #{@coordinator.firstname} #{@coordinator.lastname}", :from => "noreply@awakeningamerica.us")
+	end
 end
