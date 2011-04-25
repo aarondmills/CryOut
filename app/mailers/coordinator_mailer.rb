@@ -1,5 +1,5 @@
 class CoordinatorMailer < ActionMailer::Base
-  default :from => "aaron@jailbreakcreative.com"
+  default :from => "lwood@awakeningamerica.us"
 
 	def registration_confirmation(coordinator)
 		@coordinator = coordinator
