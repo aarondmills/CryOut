@@ -42,6 +42,7 @@ class CoordinatorsController < ApplicationController
       if @coordinator.save
         redirect_to(@county, :notice => 'Thank you for your application. We will respond as soon as possible!')
 				CoordinatorMailer.registration_confirmation(@coordinator).deliver
+				CoordinatorMailer.registration_notification(@coordinator).deliver
       else
          render :action => "new"
 
