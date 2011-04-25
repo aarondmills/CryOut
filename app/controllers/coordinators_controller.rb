@@ -25,11 +25,8 @@ class CoordinatorsController < ApplicationController
   # GET /coordinators/new.xml
   def new
     @coordinator = Coordinator.new
+		@county = County.find(params[:county_id])
 
-    respond_to do |format|
-      format.html # new.html.erb
-      format.xml  { render :xml => @coordinator }
-    end
   end
 
   # GET /coordinators/1/edit
@@ -40,17 +37,14 @@ class CoordinatorsController < ApplicationController
   # POST /coordinators
   # POST /coordinators.xml
   def create
-    @coordinator = Coordinator.new(params[:coordinator])
-
-    respond_to do |format|
+		@county = County.find(params['coordinator']['county_id'])
+		@coordinator = @county.build_coordinator(params[:coordinator]) 
       if @coordinator.save
-        format.html { redirect_to(@coordinator, :notice => 'Coordinator was successfully created.') }
-        format.xml  { render :xml => @coordinator, :status => :created, :location => @coordinator }
+        redirect_to(@county, :notice => 'Thank you for your application. We will respond as soon as possible!')
+				CoordinatorMailer.registration_confirmation(@coordinator).deliver
       else
-        format.html { render :action => "new" }
-        format.xml  { render :xml => @coordinator.errors, :status => :unprocessable_entity }
-      end
-    end
+         render :action => "new"
+   	  end
   end
 
   # PUT /coordinators/1

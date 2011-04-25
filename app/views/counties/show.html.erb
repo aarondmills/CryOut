@@ -1,13 +1,23 @@
 <p id="notice"><%= notice %></p>
 
 <h1><%= @county.name %> - <%= @county.state.name %> </h1><hr /><br />
-<% unless @county.coordinator.nil? || @county.coordinator == 0 %>
+
+
+<% #Unless this county does not have an active coordinator show the coordinators details to contact them %>
+<% unless @county.coordinator.nil? || @county.coordinator.active.nil? %>
 <h3>Connect With County Coordinator <%= @county.coordinator.firstname %> <%= @county.coordinator.lastname %></h3>
 <p>Would you like to get involved in <%= @county.name %>? We would love your help. Please contact <%= @county.coordinator.firstname %> <%= @county.coordinator.lastname %> using one of the methods below. 
 <p><% unless @county.coordinator.email.nil? %>Email <%= @county.coordinator.firstname %>: <a href="mailto:<%= @county.coordinator.email %>"><%= @county.coordinator.email %></a><% end %><br /> <% unless @county.coordinator.phone_home.nil? %>Home Phone: <%= @county.coordinator.phone_home %><% end %></p>
+
+
+<% #Otherwise, as they have no coordinator, show the coordinator signup process %>
 <% else %>
 <h2>Your County Still Needs A Coordinator</h2>
 
+You can signup <%= link_to 'here to be a new coordinator', new_coordinator_path(:county_id => @county, :state_id => @county.state) %>!
+
+
+<!--
 <br /><br />
 <script type="text/javascript">var host = (("https:" == document.location.protocol) ? "https://secure." : "http://");document.write(unescape("%3Cscript src='" + host + "wufoo.com/scripts/embed/form.js' type='text/javascript'%3E%3C/script%3E"));</script>
 
@@ -21,6 +31,10 @@ m7p1a7.initialize({
 'ssl':true});
 m7p1a7.display();
 </script>
-<% end %>
 
+-->
+
+
+<% end %>
+<br />
 <%= link_to 'Back', states_path %>

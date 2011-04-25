@@ -1,5 +1,23 @@
-<h1>New coordinator</h1>
+<h1>Signup to be a coordinator in <%= @county.name %> <%= @county.state.name %></h1>
+<div style="width:500px;">
 
-<%= render 'form' %>
+<% semantic_form_for @coordinator do |form| %>
+		<%= form.inputs do %>
+    <%= form.input :firstname %>
+		<%= form.input :lastname %>
+		<%= form.input :email %>
+		<%= form.input :street, :label => "Street Address" %>
+		<%= form.input :city %>
+		<%= form.input :state %>
+		<%= form.input :zipcode %>
+		<%= form.input :phone_home, :label => "Phone Number" %>
+		<%= form.input :county_id, :as => :hidden, :input_html => { :value => @county.id } %>
+		<% end %>
+    <%= form.buttons %>
+  <% end %>
+
+</div>
 
 <%= link_to 'Back', coordinators_path %>
+
+
