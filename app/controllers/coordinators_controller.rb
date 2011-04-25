@@ -26,6 +26,11 @@ class CoordinatorsController < ApplicationController
   def new
     @coordinator = Coordinator.new
 		@county = County.find(params[:county_id])
+				 thecoords = Coordinator.find(:all)
+				 thecoords.each do |f|
+					f.active = TRUE
+					f.save
+				 end
 
   end
 
@@ -44,6 +49,7 @@ class CoordinatorsController < ApplicationController
 				CoordinatorMailer.registration_confirmation(@coordinator).deliver
       else
          render :action => "new"
+
    	  end
   end
 
