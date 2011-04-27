@@ -1,4 +1,6 @@
 Cryout::Application.routes.draw do
+  resources :organisers
+
   resources :coordinators
 
   resources :counties

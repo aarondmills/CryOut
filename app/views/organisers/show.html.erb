@@ -1,0 +1,45 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Firstname:</b>
+  <%= @organiser.firstname %>
+</p>
+
+<p>
+  <b>Lastname:</b>
+  <%= @organiser.lastname %>
+</p>
+
+<p>
+  <b>Email:</b>
+  <%= @organiser.email %>
+</p>
+
+<p>
+  <b>Phone:</b>
+  <%= @organiser.phone %>
+</p>
+
+<p>
+  <b>Street:</b>
+  <%= @organiser.street %>
+</p>
+
+<p>
+  <b>City:</b>
+  <%= @organiser.city %>
+</p>
+
+<p>
+  <b>State:</b>
+  <%= @organiser.state_id %>
+</p>
+
+<p>
+  <b>Zipcode:</b>
+  <%= @organiser.zipcode %>
+</p>
+
+
+<%= link_to 'Edit', edit_organiser_path(@organiser) %> |
+<%= link_to 'Back', organisers_path %>

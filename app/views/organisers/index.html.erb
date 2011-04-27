@@ -1,0 +1,37 @@
+<h1>Listing organisers</h1>
+
+<table>
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Email</th>
+    <th>Phone</th>
+    <th>Street</th>
+    <th>City</th>
+    <th>State</th>
+    <th>Zipcode</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @organisers.each do |organiser| %>
+  <tr>
+    <td><%= organiser.firstname %></td>
+    <td><%= organiser.lastname %></td>
+    <td><%= organiser.email %></td>
+    <td><%= organiser.phone %></td>
+    <td><%= organiser.street %></td>
+    <td><%= organiser.city %></td>
+    <td><%= organiser.state_id %></td>
+    <td><%= organiser.zipcode %></td>
+    <td><%= link_to 'Show', organiser %></td>
+    <td><%= link_to 'Edit', edit_organiser_path(organiser) %></td>
+    <td><%= link_to 'Destroy', organiser, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Organiser', new_organiser_path %>

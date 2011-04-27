@@ -10,7 +10,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20110423190907) do
+ActiveRecord::Schema.define(:version => 20110427040526) do
 
   create_table "coordinators", :force => true do |t|
     t.string   "firstname"
@@ -50,6 +50,19 @@ ActiveRecord::Schema.define(:version => 20110423190907) do
   end
 
   add_index "delayed_jobs", ["priority", "run_at"], :name => "delayed_jobs_priority"
+
+  create_table "organisers", :force => true do |t|
+    t.string   "firstname"
+    t.string   "lastname"
+    t.string   "email"
+    t.string   "phone"
+    t.string   "street"
+    t.string   "city"
+    t.integer  "state_id"
+    t.string   "zipcode"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
 
   create_table "rails_admin_histories", :force => true do |t|
     t.string   "message"
