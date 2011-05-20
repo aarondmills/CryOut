@@ -1,6 +1,12 @@
 <p id="notice"><%= notice %></p>
-
-<h2>Select your County in <%= @state.name %></h2>
+<% if @state.organiser.blank? %>
+<h2>Your state needs a coordinator!</h2>
+<p>We are currently seeking a coordinator for your state. If you are interested in becoming a state coordinator please see the <a href="http://www.awakeningamerica.us/index.php/state_coordinator">list of qualifications here.</a></p>
+<% else %>
+<h1><%= @state.name %></h1>
+<p>Welcome from <%= @state.organiser.firstname %> <%= @state.organiser.lastname %>, the <%= @state.name %> State Coordinator. We are excited to have you working with us to impact <%= @state.name %></p>
+<% end %>
+<h2>Getting started is easy. Select your county in <%= @state.name %> below:</h2>
 <% @counties.each do |county| %>
 <%= link_to(county_path(county)) do %>
 <p> <%= county.name %></p>
