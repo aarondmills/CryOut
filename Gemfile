@@ -10,8 +10,6 @@ gem 'devise' # Devise must be required before RailsAdmin
 gem 'rails_admin', :git => 'git://github.com/sferik/rails_admin.git'
 gem 'delayed_job'
 gem 'formtastic', '~> 1.2.3'
-gem 'fastercsv'
-gem 'crafterm-comma'
 
 # Use unicorn as the web server
 # gem 'unicorn'
