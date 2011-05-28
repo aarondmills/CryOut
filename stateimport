@@ -54,6 +54,7 @@ CSV.open('coordinators.csv', 'r').each do |row|
   mystate = State.find_by_abreviation(abreviation)
 	county = row[3]
 	mycounty = mystate.counties.find_by_name(county)
+	if mycounty.coordinator
 	popuser = mycounty.coordinator
 	popuser.firstname = row[5]
 	popuser.lastname = row[6]
@@ -61,7 +62,23 @@ CSV.open('coordinators.csv', 'r').each do |row|
 	popuser.street = row[13]
 	popuser.city = row[14]
 	popuser.zipcode = row[16]
+	popuser.save
+	end
 end
+
+CSV.open('coordinators.csv', 'r').each do |row|
+	email = row[12]
+	popuser = Coordinator.find_by_email(email)
+	popuser << [:firstname => row[5]]
+	popuser.lastname = row[6]
+	popuser.email = row[12]
+	popuser.street = row[13]
+	popuser.city = row[14]
+	popuser.zipcode = row[16]
+	popuser.save
+end
+
+
 	
 
 
