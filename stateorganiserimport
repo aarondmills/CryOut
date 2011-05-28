@@ -9,3 +9,13 @@ CSV.open('stateorganiserscsv', 'r').each do |row|
 popuser.state = mystate
 popuser.save
 end
+
+
+
+
+CSV.open("databasebackup1.csv", "wb") do |csv|
+		
+    csv << ["row", "of", "CSV", "data"]
+    csv << ["another", "row"]
+    # ...
+  end

@@ -1,9 +1,14 @@
-<h1>Select Your State</h1>
+<table border="1">
+  <tr>
+    <th>State Name</th><th>County Name</th><th>Coordinator Firstname</th><th>Coordinator Last Name</th><th>Address</th><th>Phone</th><th>Email</th><th>City</th><th>Zipcode</th>
+  </tr>
+  <% @states.each do |u| %>
+		<% u.coordinators.each do |coordinator| %>
 
+  <tr>
+   <td><%= coordinator.state.name %></td><% if coordinator.county %><td><%= coordinator.county.name %><% else %><td>MISSING</td><% end %><td><%= coordinator.firstname %></td><td><%= coordinator.lastname %></td><td><%= coordinator.street %></td><td><%= coordinator.phone_home %></td><td><%= coordinator.email %></td><td><%= coordinator.city %></td><td><%= coordinator.zipcode %></td>
 
-<% @states.each do |state| %>
-<%= link_to(state) do %>
-<p> <%= state.name %></p>
-<% end %>
-<% end %>
-<%= link_to 'New State', new_state_path %>
+		<% end %>
+  <% end %>
+ </tr>
+</table>

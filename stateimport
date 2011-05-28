@@ -45,3 +45,30 @@ tr -d '\n' COA_coordinators_02162011.csv fire_new.csv
 aaron = @ic.build_user
 aaron.save
 
+
+
+
+
+CSV.open('coordinators.csv', 'r').each do |row|
+  abreviation = row[4]
+  mystate = State.find_by_abreviation(abreviation)
+	county = row[3]
+	mycounty = mystate.counties.find_by_name(county)
+	popuser = mycounty.coordinator
+	popuser.firstname = row[5]
+	popuser.lastname = row[6]
+	popuser.email = row[12]
+	popuser.street = row[13]
+	popuser.city = row[14]
+	popuser.zipcode = row[16]
+end
+	
+
+
+
+build_user(:firstname => row[5], :lastname => row[6], :email => row[12], :street => row[13], :city => row[14], :zipcode => row[16])
+popuser.state = mystate
+popuser.save
+end
+
+

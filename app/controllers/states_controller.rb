@@ -3,18 +3,25 @@ class StatesController < ApplicationController
   # GET /states.xml
   def index
     @states = State.all
-
-    respond_to do |format|
-      format.html # index.html.erb
-      format.xml  { render :xml => @states }
-    end
+		@counties = County.all
+		headers['Content-Type'] = "application/vnd.ms-excel"
+    headers['Content-Disposition'] = 'attachment; filename="report.xls"'
+    headers['Cache-Control'] = ''
+		
   end
+	def export
+		headers['Content-Type'] = "application/vnd.ms-excel"
+    headers['Content-Disposition'] = 'attachment; filename="report.xls"'
+    headers['Cache-Control'] = ''
+		@states = State.all
+	end
 
   # GET /states/1
   # GET /states/1.xml
   def show
     @state = State.find(params[:id])
 		@counties = County.returncounty(params[:id]).sort_by(&:name) 
+		
 
 
     respond_to do |format|

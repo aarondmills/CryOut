@@ -1,0 +1,837 @@
+Kathy,Welch,Fairbanks,#<State:0x0000000490abd8>
+Ed,Blocker,Big Lake,#<State:0x00000004935bf8>
+Jessica,Gray,Daphne,#<State:0x0000000493ac20>
+Joshua,Lynn,Leesburg,#<State:0x00000004937c00>
+P. Dale,Burnette,Clanton,#<State:0x0000000493cc28>
+Gerry,griffin,Jackson,#<State:0x00000004941c00>
+Garry,Lovette,Muscle Shoals,#<State:0x00000004946c28>
+Tami,Cowart,Dozier,#<State:0x00000004943c08>
+Samuel,Tucker,Cullman,#<State:0x00000004948c30>
+Don,Brock,Mentone,#<State:0x0000000494dc08>
+Thomas,Quick,Brewton,#<State:0x00000004952c30>
+Gail,Minshew,Attalla,#<State:0x0000000494fc10>
+William,Best,Fayettte,#<State:0x00000004954c38>
+Bryan,Klobe,Newville,#<State:0x00000004959c10>
+Ida,Carthon,Dothan,#<State:0x0000000495ec38>
+DeWayne,Hendon,Hoover,#<State:0x0000000495bc18>
+betty,dudley,Opelika,#<State:0x00000004960c40>
+John,Axford,Athens,#<State:0x00000004965c18>
+BISHOP WILLIAM,WILSON,HUNTSVILLE,#<State:0x0000000496ac40>
+Carol,Branch,Demopolis,#<State:0x00000004967c20>
+Clint,Knowles,Hacklesburg,#<State:0x0000000496cc48>
+Sandra,Lewis,Axis,#<State:0x00000004971c20>
+Betty,Junkin,Ethelsville,#<State:0x00000004976c48>
+Barry,Cosper,Alexander City,#<State:0x00000004973c28>
+Cynthia,Patton,Jasper,#<State:0x0000000495a160>
+John,Whaley,Double Springs,#<State:0x00000004974ba0>
+Frank,Rippeto,Caddo Valley,#<State:0x00000004971590>
+Lori,Parrson,Fordyce,#<State:0x0000000496e430>
+Dr. Bobby,Spencer,"Monticello, AR",#<State:0x0000000496b0f0>
+Susan,Risker,"Paragold, AK",#<State:0x00000004967a90>
+Rev. Tim,Law,"White Hall, AR",#<State:0x000000049646b0>
+Domingo,Lopez,Texarkana,#<State:0x00000004961348>
+Robert,O Bryant,Russellville Ar,#<State:0x0000000495df68>
+John F.,Herman,Bryant,#<State:0x0000000495ac00>
+Bill,Fink,Ft Smith,#<State:0x00000004957870>
+william,wilson,williford,#<State:0x00000004954530>
+ERIC,MARTIN,DARDANELLE,#<State:0x00000004951330>
+Mike,Hjalmarson,Flagstaff,#<State:0x0000000494de60>
+Rita,Hassard,Globe,#<State:0x0000000494ac10>
+Melinda,Duclos,Scottsdale,#<State:0x000000049478f8>
+Pastor Ted,Matyja,Lake Havasu City AZ.,#<State:0x000000049445e0>
+renalee,Colon,Florence,#<State:0x000000049410e8>
+Alicia,Garcia,Oakland,#<State:0x0000000493dfd8>
+Kevin,Thompson,Oroville,#<State:0x0000000493aab8>
+PaulaJean,John-Paul,Concord,#<State:0x000000049377c8>
+Maryal,Boumann,Placerville,#<State:0x00000004934488>
+Nickie,Chinn,Fresno,#<State:0x00000004930838>
+Belinda,Kruse,Eureka,#<State:0x0000000492d048>
+Jim,Woods,Bakersfield,#<State:0x00000004929678>
+Marleny,Senn,Kingsburg,#<State:0x00000004925708>
+cheryl,montgomery,clearlake oaks,#<State:0x00000004921ab8>
+Allen,Barger,Susanville,#<State:0x0000000491dc38>
+Jaren,Lapasaran,Hacienda Heights,#<State:0x00000004919e58>
+Chad,Buttrey,Chowchilla,#<State:0x00000004916028>
+Ron,Shires,Salinas,#<State:0x000000049126a8>
+Dr Bill,Mansdoerfer,Grass Valley,#<State:0x0000000490ef30>
+Daniel,de Leon,Santa Ana,#<State:0x0000000490bec0>
+Ron,Hernandez,Hemet,#<State:0x00000004908bf8>
+Jonette,Kiesow,Fair Oaks,#<State:0x00000004905bb0>
+Bob,Rufener,Hollister,#<State:0x000000049027a8>
+Jose,Orona,Ontario,#<State:0x000000048ff6e8>
+Joseph,Burrola,imperial beach,#<State:0x000000048fc510>
+Dr Bill,Tam,San Fransciso,#<State:0x000000048f93d8>
+Julia,Reiff,Lockeford,#<State:0x000000048f5d78>
+Irene,Egan,San Luis Obispo,#<State:0x000000048f2c90>
+Ben-Maria,Delevan,San Mateo,#<State:0x000000048ef5b8>
+Opal,Dailey,"Santa Barbara,CA",#<State:0x000000048ec020>
+Thomas,Wang,"Sunnyvale, CA",#<State:0x000000048e8858>
+Rev. Karen,Piccard-Baumann,Mount Hermon,#<State:0x000000048e50e0>
+Mary,Morin,Shasta Lake,#<State:0x000000048e1a80>
+DR AUBREY,MCGANN,MODESTO,#<State:0x000000048de948>
+Ruthanne,Grimes,Yuba City,#<State:0x000000048db900>
+LUPE,ARELLANO,LINDSAY,#<State:0x000000048d8480>
+Baylee,W,Ventura,#<State:0x000000048d4e48>
+Rita,Montes Martin,Davis,#<State:0x000000048d19c8>
+cloetta,smith,Westminster,#<State:0x000000048ce638>
+Kathy,Collier,Erie,#<State:0x000000048cb320>
+Jared,Wilder,new york,#<State:0x000000048c7ce8>
+Jan,Parks,Castle Rock,#<State:0x000000048c47c8>
+Fred,Hyde,Manitou Springs,#<State:0x000000048c1500>
+William,Daniells,Gleenwood Springs,#<State:0x000000048be120>
+Carla,McPherson,WheatRidge,#<State:0x000000048bac28>
+Ben,Marquez,Fort Collins,#<State:0x000000048b7730>
+Leslie,Gallegos,Cortez,#<State:0x000000048b41c0>
+Kaitlin Rose,Boyd,Dillon,#<State:0x000000048b0fe8>
+Gayle,Haskins,Oxford,#<State:0x000000048add98>
+Patricia,Hamilton,Hartford,#<State:0x000000048aad78>
+Mary,Bruce,Wolcott,#<State:0x000000048a7d58>
+Bill & Joan,Bowe,Middletown,#<State:0x000000048a45e0>
+Rev. Sheila,Kimball,Guilford,#<State:0x000000048a0aa8>
+Janet,LeBoutillier,"Old Lyme, CT",#<State:0x0000000489d718>
+Arlene,Ferreira,Tolland,#<State:0x0000000489a1f8>
+Audrey McIntyre,Connecticut House of,Hartford,#<State:0x00000004896850>
+Augustine,Eyekpimi,Smyrna,#<State:0x00000004892ed0>
+Donna,Baber,Lynn Haven ,#<State:0x0000000488f4b0>
+Linda,Bemis,Titusville,#<State:0x0000000488bab8>
+LILLIAN,ROBERSON,LAUDERHILL,#<State:0x000000048880e8>
+Bonnie,Kornegay,Blountstown,#<State:0x00000004884970>
+Lance,Fisher,Venice,#<State:0x00000004881608>
+Stephen,Spano,Naples,#<State:0x0000000487e4d0>
+Linda and John Paul,Jones,"Lake City, Fl",#<State:0x0000000487b410>
+Rick,Curry,Pensacola,#<State:0x00000004878210>
+Faith,Jackson,Brooksville,#<State:0x00000004875178>
+Jesten,Peters,Brandon,#<State:0x000000048720b8>
+noel,wideberg,Sebastian,#<State:0x0000000486f020>
+Mary,Starling,Branford,#<State:0x0000000486bf88>
+Bryan,Scott,Clermont,#<State:0x000000048686f8>
+Debbie,Westerfield,Bonita Springs,#<State:0x00000004865250>
+Pam  (Pastor),Olsen,Tallahassee,#<State:0x00000004861da8>
+Richard,Turner,Wood River,#<State:0x0000000485ec20>
+Pastor Bill,Pierson,Bradenton,#<State:0x0000000485b700>
+Karen,Masood,Summerfield,#<State:0x00000004858668>
+cromwell,pope,hobesound,#<State:0x00000004855648>
+Charles,Romero,Miami,#<State:0x000000048525d8>
+Linda,Jenkins,Niceville,#<State:0x0000000484f608>
+Rev. Alfred,Sanchez,Winter Park,#<State:0x0000000484b788>
+Nelly,Rivera,Kissimmee,#<State:0x00000004845a18>
+Rev. Kevin,Slack,Boynton Beach,#<State:0x0000000483f988>
+Teresa ,Emmons,Hudson,#<State:0x00000004839998>
+Uneeka,Jay,Apollo Beach,#<State:0x00000004833908>
+Harold and Myrtice,Hagan,Lake Wales,#<State:0x0000000482d878>
+Fred,Rogers,Milton,#<State:0x0000000481f278>
+LaVoy,Newton,St. Augustine,#<State:0x00000004815700>
+Jacqueline,Watson,Port Saint Lucie,#<State:0x00000004810110>
+Jesse,Roland,Barberville,#<State:0x0000000480a2d8>
+Daniel,Cooksey,"Crawfordville, FL.",#<State:0x000000047ed408>
+Ruth,Johnson,Chipley,#<State:0x000000047def20>
+Evangelist Jesse,OBrien,Bethlehem,#<State:0x000000047d5588>
+Darryl,Perry,Cartersville,#<State:0x000000047d0c18>
+Raymond,Willis,Hortense,#<State:0x000000047c5408>
+Kathy C.,Wall,Quitman,#<State:0x000000047bbae8>
+Steven,Hester,Pembroke,#<State:0x000000047b7e48>
+Justin,Gibson,Statesboro,#<State:0x000000047a6e18>
+Sara,Popphan,Carrollton,#<State:0x0000000479b180>
+Debra,Smith,Ringgold,#<State:0x00000003dde7f0>
+Terri,Tidmore,summerville,#<State:0x00000003dd8fa8>
+theophilus,ajadi,rex,#<State:0x00000003dd1be0>
+Rick,Fortier,Marietta,#<State:0x00000003dc41c0>
+Charlene,Griffin,Lenox Ga.,#<State:0x00000003dbe068>
+April,Anderson,Senoia,#<State:0x00000003db79e8>
+Kirby,Hill,Trenton,#<State:0x00000003db0288>
+Teressa,Jackson,Swainsboro,#<State:0x00000003da9118>
+Carolyn,Wyatt,Peachtree City,#<State:0x00000003da1580>
+Ron,Whitehead,Roswell,#<State:0x00000003d9b220>
+Rich,Thompson,Atlanta,#<State:0x00000003d943d0>
+Hiram and Ofelia,Bobo,Gibson,#<State:0x00000003d8c158>
+Jerry,Gaddis,Plainville,#<State:0x00000003d844f8>
+david,Burgher,Snellville,#<State:0x00000003d7dfb8>
+Rev. Wilmer,Ivester,Toccoa,#<State:0x00000003d717b8>
+Joshua,Edmonds,Lawrenceville,#<State:0x00000003d6ac38>
+Herman,Parker,Bremen,#<State:0x00000003d64a18>
+Lisa,Mimbs,McDonough,#<State:0x00000003d5dab0>
+Judy,Tatum,Louisville,#<State:0x00000003d52f20>
+Lance,Fendley,"Smithville, GA",#<State:0x00000003d4cdf0>
+Kimberly,Abercrombie,Dahlonega,#<State:0x00000003d46298>
+Bonita,White,Camilla,#<State:0x00000003d3cf90>
+Roger,Vest,Chatsworth,#<State:0x00000003d35c40>
+Thomas,Davis,Covington,#<State:0x00000003d2b948>
+Bill,Kunzelman,"Ft. Valley, Ga",#<State:0x00000003d24e90>
+Rev. Allen,Mayes,Conyers,#<State:0x00000003d1ed10>
+Herlaine,Carr,McDonough,#<State:0x00000003d15d00>
+Douglas,Silvis,Thomasville,#<State:0x00000003d0eb90>
+Gary,Walker,Jeffersonville,#<State:0x00000003d07c50>
+Elaine,Weese,Suches ,#<State:0x00000003d010d0>
+Roger,Smiley,Waycross,#<State:0x00000003cfa460>
+George,Moxley,Jesup,#<State:0x00000003cf4858>
+Pastor Catherine,Ray,Atlantic,#<State:0x00000003ceebb0>
+Jim R,Machen,Clinton,#<State:0x00000003ce94a8>
+Jason,shoop,Burlington,#<State:0x00000003ce3828>
+James,Miller,Mt. Union,#<State:0x00000003cddea0>
+Kevin,Grimes,Spencer,#<State:0x00000003cd9300>
+Kerry,Hadley,Richland,#<State:0x00000003cd3ce8>
+Rev Frank,Vozenilek Sr,Cedar Rapids,#<State:0x00000003cce1f8>
+Charles,Hundley,Des Moines,#<State:0x00000003cc8de8>
+Virgil&Gina,Pickrell,CouncilBluffs,#<State:0x00000003cc3348>
+Anthony,Johnson,Davenport,#<State:0x00000003cbcb60>
+Cathy,Johnson,Clio,#<State:0x00000003bdcc90>
+Maureen,Cameron,Goldfield,#<State:0x00000003bcff68>
+Dan,Ferguson,Meridian,#<State:0x00000003bc1da0>
+Dale,Swenson,Blackfoot,#<State:0x00000003bbab90>
+Cathleen,Pomeroy,Sandpoint,#<State:0x00000003baa948>
+Calvin ,Winslow,Idaho Falls,#<State:0x00000003707e68>
+Adam,Hagaman,Nampa,#<State:0x000000036d1598>
+Rosemary,Giauque,Rigby,#<State:0x00000003694e18>
+Rob,Harper,Wallace,#<State:0x0000000366ffa0>
+Bill,Erickson,Champaign,#<State:0x00000003666d60>
+Melissa,Jones,Taylorville,#<State:0x0000000365dcb0>
+Rebecca,Caraway,Des Plaines,#<State:0x00000003652518>
+Jeffrey,DeLaughter,Clinton,#<State:0x000000036480e0>
+Kandis,Heckler,Wheaton,#<State:0x00000003641830>
+John,Bock,Carrollton,#<State:0x00000003638690>
+Trina,Ruiter,Morris,#<State:0x0000000362f540>
+Doretta,Corrie,Watseka,#<State:0x00000003629258>
+Cathy,Bell,Mt Vernon,#<State:0x000000036211c0>
+Pam,Liesendahl,Batavia,#<State:0x00000003617fa8>
+Dona,Bell,Lake Zurich,#<State:0x00000003610618>
+WESLY F.,STOHR,Ottawa,#<State:0x00000003605c68>
+Rev. Don,Beasley,Dixon,#<State:0x000000035fc9d8>
+Loretta,Greer,Decatur,#<State:0x000000035f3298>
+Donna,Turpin,Chesterfield,#<State:0x000000035eb638>
+Precious,Ewuzie,Madison,#<State:0x000000035e29e8>
+David,Gute,McHenry,#<State:0x000000035dac70>
+Mick,Dobra,Peoria,#<State:0x000000035d1710>
+Dr. Michael,Fogerson,Chester,#<State:0x000000035c8f48>
+"Rev, Troy",Reynolds,Olney,#<State:0x000000035bc748>
+Steve,Stephens,Rock Island,#<State:0x000000035b6640>
+MARY,LAWRENCE/GILLIAM,EAST ST.LOUIS,#<State:0x000000035ae850>
+Jan,Callahan,Wyoming,#<State:0x000000035a7fc8>
+Sharon,Chitwood,Carmi,#<State:0x0000000359ebd0>
+Donna,Billings,Joliet,#<State:0x00000003570c08>
+Chris,Parker,Rockford,#<State:0x00000003564d18>
+Terry,Owens,Fort Wayne,#<State:0x00000003553900>
+Donald,Andreason,Columbus,#<State:0x0000000353a3b0>
+C,S,O.PK,#<State:0x0000000351f920>
+GEORGE,GIDEON,THORNTOWN,#<State:0x00000003518058>
+Rodney,Walker,Mooresville,#<State:0x0000000350dce8>
+Jeff,Strite,Logansport,#<State:0x000000035001d8>
+Dallas,Carter,Jeffersonville,#<State:0x000000034f7bc8>
+Julie,Lake,Brazil,#<State:0x000000034dccd8>
+Lynda,Malysa,Chesterfield,#<State:0x000000034d1b80>
+Mary,Ezzell,Elkhart,#<State:0x000000034b94e0>
+Becka,Lehman,Converse,#<State:0x000000034abed0>
+Edward,Young,Carmel,#<State:0x000000034a45e0>
+bruce,emery,corydon,#<State:0x0000000349e5f0>
+Bishop(Dr)  Sunday,Robert-Eze,Indianapolis,#<State:0x0000000348d278>
+Ted,Malone,New Castle,#<State:0x00000003481a90>
+Huntington Faith Cen,Paster Patrick Haski,Huntington ,#<State:0x00000003478f80>
+Constance,Wilson,McCordsville,#<State:0x0000000346ba88>
+Rev. William,Hunter,DeMotte,#<State:0x000000034581b8>
+Darren,Mullikin,North Vernon,#<State:0x00000003443880>
+Wayne,Murray,New Whiteland,#<State:0x00000003434d30>
+Sandy,Ivers,Vincennes,#<State:0x0000000342e840>
+Ken Locke,GWMA,Warsaw,#<State:0x00000003422478>
+Allen,Lehmann,Merrillville,#<State:0x00000003414440>
+Dennis,Harris,Anderson,#<State:0x000000033f7f20>
+jessi,stone,denver,#<State:0x000000033ea3e8>
+Kathy,Taylor,Bloomington,#<State:0x000000033e1770>
+Mike,Fox,Paragon,#<State:0x000000033bf5d0>
+Marjorie,Piper,Ligonier,#<State:0x000000033af860>
+Michael,Fox,Paragon,#<State:0x000000033a5cc0>
+Jeff,Straley,Winchester,#<State:0x0000000338c540>
+Valerie,McMasters,Shelbyville,#<State:0x00000003380150>
+Tracey,Nickels,Mishawaka,#<State:0x0000000336e108>
+Linda,Moorman,Mishawaka,#<State:0x0000000335c778>
+Sue,O\'Brien,Lafayette,#<State:0x0000000333a330>
+William,Salsbery,Sharpsville,#<State:0x00000003334200>
+Ray,Bland,Terre Haute,#<State:0x0000000332b2b8>
+Chaplain James,Graves,Craigville,#<State:0x000000032f0028>
+Christine,Jernagan,Monticello,#<State:0x000000032d6218>
+C.V.,Stansell,Columbia City,#<State:0x000000032c52b0>
+Jean,Anderson,Iola,#<State:0x000000032a6018>
+heather,smylie,sedan,#<State:0x0000000326d178>
+Jo,Anderson,Pittsburg,#<State:0x000000032524b8>
+Kaye,Farinella,Olathe,#<State:0x00000003243b20>
+Nancy,Jefferson,Scandia,#<State:0x00000003226e80>
+Bonnie,Berggren,Manhattan,#<State:0x00000003219ff0>
+Glen,Pummel,Salina,#<State:0x0000000320f2a8>
+Toni,Patton,Scott City,#<State:0x00000003200258>
+Theodore,Van Horn,Wichita,#<State:0x000000031f7900>
+Ann,Holman,Liberal,#<State:0x000000031edc98>
+Janet,Redlin,Goodland,#<State:0x000000031e3ba8>
+Eric,Gilbert,Russell Springs,#<State:0x000000031d8028>
+John K.,Williamson,"Glasgow, KY",#<State:0x000000031d0698>
+Jeff,Hoots,Owingsville,#<State:0x000000031c5a90>
+Charlotte ,Cox,Middlesboro,#<State:0x000000031b5690>
+Henry,Stewart,Florence,#<State:0x000000031ab398>
+Tim,Bardin,Lexington,#<State:0x000000031a42f0>
+aprile,hunt,Danville,#<State:0x0000000319d518>
+Martha,Cole,Irvington,#<State:0x00000003196d80>
+William,"Sutton,Jr.",Morgantown,#<State:0x0000000318d730>
+Linny,O'Hara,Newport,#<State:0x00000003185c10>
+Jana F.,Kiser,Grayson,#<State:0x0000000317f9f0>
+Eric,Gilbert,Russell Springs,#<State:0x0000000317a450>
+David,Douglas,Winchester,#<State:0x00000003174d70>
+Doug,Abner,Manchester,#<State:0x00000003170838>
+Alva and Joyce,Wilson,Owensboro,#<State:0x0000000316aff0>
+Tom & Diana,Bissig,Elizabethtown,#<State:0x00000003165960>
+Cassidy,Worthington,Lancaster,#<State:0x00000003160320>
+Johnny,Embry,Leitchfield,#<State:0x0000000315a150>
+Debbie,Harper,"Grayson, KY",#<State:0x00000002ac5010>
+Tom & Diana,Bissig,Elizabethtown,#<State:0x00000002aa9e50>
+David,Shepherd,"Horse Cave, KY",#<State:0x00000002a87850>
+Freida,Alexander,Henderson,#<State:0x00000002a68c20>
+Gary,Ball,Madisonville,#<State:0x00000002a51688>
+Roland,Bowman,Wilmore,#<State:0x00000002a3c918>
+Randell,Reno,Paintsville,#<State:0x00000002a2eb38>
+Mike,Wynn,London,#<State:0x00000002a1f430>
+Tommy,Green,Lexington,#<State:0x00000002a03028>
+Mary Beth,Lovett,Stanford,#<State:0x000000029ed980>
+Chris,Cowen,Russellville,#<State:0x000000029e0820>
+Donna,McGill,Louisville,#<State:0x000000029d01f0>
+Bishop Kenneth,Yates,Paducah,#<State:0x000000029b0b70>
+Mary,Harbison,Brandenburg,#<State:0x0000000299a8c0>
+Debra,Gentry,SummerShade,#<State:0x00000002973c20>
+Kay,Kendall,Tompkinsville,#<State:0x0000000295e6e0>
+Donna,McGill,Louisville,#<State:0x00000002948d40>
+Robert,Spurlock,Booneille,#<State:0x00000002938710>
+Mark,Harrell,West Somerset,#<State:0x00000002916e30>
+Betsy,Meadows,Morehead,#<State:0x000000028fe830>
+Eric,Gilbert,Russell Springs,#<State:0x000000028e9660>
+Brenda,Embry,Georgetown,#<State:0x000000028c8f50>
+Richard,Gibbins,Franklin,#<State:0x000000028b3420>
+DAVID,COY,BEDFORD,#<State:0x0000000289e458>
+frances,pierce,bowling green,#<State:0x0000000287ecc0>
+Cornelius,Duncan,Monticello,#<State:0x0000000286f018>
+Tina,Jones,Dixon,#<State:0x00000002850ff0>
+Daniel,Ledger,Woodbine,#<State:0x00000002820648>
+April,Fontenot,Eunice,#<State:0x000000027c5cc0>
+amy,brunner,donaldsonville,#<State:0x000000026687d8>
+Tonia,Ethridge,Shreveport,#<State:0x0000000263f3d8>
+Julia,Anderson,Westlake,#<State:0x000000025f6b88>
+Brenda,Jackson,Baton Rouge,#<State:0x000000025acda8>
+Ann,Brock,Lake Providence,#<State:0x0000000257bc30>
+Bernetta,McCann,Jennings,#<State:0x00000002557ad8>
+Carolyn R.,Hatcher,Denham Springs,#<State:0x00000002527090>
+Diane and Greg,Yoes,Monroe,#<State:0x000000024b4518>
+Agnes,Batiste,Vacherie,#<State:0x0000000248a3d0>
+Donna,Perrilloux,Reserve,#<State:0x000000024694f0>
+Jennifer,Glasscock,Eunice,#<State:0x00000002435f38>
+Ray,Marcel,Houma,#<State:0x0000000240d600>
+Elizabeth ,Kenney,Buzzards Bay,#<State:0x000000023f9ad8>
+Rev. Willard,Durant,Pittsfield,#<State:0x000000023c5a58>
+Larry,Avila,New Bedford,#<State:0x0000000238a1d8>
+Pastor Joseph,Dockter/Vineyard Assembly of God,Vineyard Haven,#<State:0x00000002356e28>
+Suzanne,Carter,Beverly,#<State:0x0000000232ca60>
+David,McCahon,"Deerfield, MA",#<State:0x000000022ef610>
+Jennifer,Deitz,Chicopee,#<State:0x000000022c7980>
+John ,Shi,Bedford,#<State:0x0000000228eae0>
+Connie,Oleson,Mashpee,#<State:0x000000022558a8>
+Hinkley,Tuller,Winchendon,#<State:0x0000000221d598>
+Sharron,Moody,Cumberland,#<State:0x000000021ef7b0>
+Jack,Kinsey,Glen Burnie,#<State:0x00000001c70c58>
+Charles & Esther,Bell,Owings Mills,#<State:0x00000001c06ec0>
+Dr. Larry,Miller,Essex,#<State:0x00000001be0ea0>
+melissa,lehew,perry hall,#<State:0x00000001b90838>
+Larry,Barnes,Lusby,#<State:0x00000001b418a0>
+RAY,PARSONS,Federalsburg,#<State:0x00000001aa2750>
+Jan,Peterson,Waldorf,#<State:0x00000001a614f8>
+Minister Ivy,Coleman,Frederick,#<State:0x000000019d1df8>
+Stephen,Abe,"Oakland, Maryland",#<State:0x0000000191a248>
+Mary,Whitehead,Edgewood,#<State:0x0000000180a498>
+NICKU KYUNGU,MORDI,Silver Spring,#<State:0x000000017db7b0>
+Timothy,Agbeja,Hyattsville,#<State:0x00000001790698>
+Mary Ann,Stephenson,Wye Mills,#<State:0x00000001700368>
+Monique,Rouillard,Lewiston,#<State:0x000000016c8008>
+Candy,Nevers,Oakfield,#<State:0x0000000168dc00>
+Frank,Siciliano,Westbrook,#<State:0x00000001631388>
+Kevin,Kidd,Augusta,#<State:0x000000015dcbf8>
+Larry,Shaw,Rumford,#<State:0x0000000155c570>
+Marsha,Moore,Bangor,#<State:0x00000001413128>
+Mary E,Dow,Richmond ,#<State:0x000000013ae228>
+Cliff,Gall,Searsport,#<State:0x0000000124c1f0>
+Ralph,Ackley,Machias,#<State:0x00000001225050>
+Ed,Morrison,Harrisville,#<State:0x00000003160aa0>
+Nathan,Kelch,Allegan,#<State:0x000000035dd740>
+Cyndi,Kuhlman,Wyoming,#<State:0x0000000480c5d8>
+Timothy,Poisel,Benton Harbor,#<State:0x0000000492ac58>
+Kerry,Hird,"Battle Creek, MI",#<State:0x00000004975528>
+Paul,Wise,Boyne City,#<State:0x00000004971d88>
+Paul Joseph ,Newman,Cheboygan,#<State:0x0000000496e840>
+Jan,Vargo,Fowler,#<State:0x0000000496b258>
+T\nishia,Jones,Flint,#<State:0x00000004967ab8>
+Jason,Mitchell,Kalamazoo,#<State:0x000000049644d0>
+Molly,Gillion,Grand Rapids,#<State:0x00000004961000>
+Jeannie,Stevens,Maple City,#<State:0x0000000495d9c8>
+David,King,Adrian,#<State:0x0000000495a318>
+Darcy,Broden,Fenton,#<State:0x00000004956d80>
+Barbara,luckett,st. clair shores,#<State:0x000000049537c0>
+Joni,Scott,Marquette,#<State:0x00000004950278>
+Dr. Sean ,ONeal,"Monroe, MI",#<State:0x0000000494cb28>
+Ed and Cathy,Brakefield,Leonard,#<State:0x000000049495b8>
+Tom,Jeffrey,Evart,#<State:0x00000004945ee0>
+Lori,Hudzinski,Lynn,#<State:0x000000049428f8>
+Nancy,Matuszak,Caro,#<State:0x0000000493f310>
+Linda,Coombs,Whitmore Lake,#<State:0x0000000493bda0>
+Valentine,Anochiam,canton,#<State:0x00000004938768>
+Velma,Whaley,Cadillac,#<State:0x00000004935068>
+Michael,Mensen,St. Francis,#<State:0x00000004931508>
+Katrina,Langr,Dodge Center,#<State:0x0000000492d908>
+Dr. Michael,Cieniawski,Elbow Lake,#<State:0x00000004929d80>
+Robin,Pederson,Deer River,#<State:0x00000004925dc0>
+Joy,Senecal,Le Sueur,#<State:0x00000004921dd8>
+Carole,DeMars,Warren,#<State:0x0000000491de90>
+Greg,Stone,St. Peter,#<State:0x00000004919db8>
+Jean,Jones,Pipestone,#<State:0x00000004915da8>
+Shirley,Clough,Elk River,#<State:0x00000004912310>
+Barbara,Rider,Clive,#<State:0x0000000490e9b8>
+Michael,Blanchet,Duluth,#<State:0x0000000490b5b0>
+Rosalyn,Denn,Buffalo,#<State:0x00000004908090>
+ Enos and Diane,Chamberlain,Columbia,#<State:0x00000004904b70>
+Janna,Wuest,St. Joseph,#<State:0x000000049016f0>
+Therese,chester,Osage Beach,#<State:0x000000048fe1f8>
+Susan,Rosenkoetter,Jackson,#<State:0x000000048faeb8>
+Don,Blansit,Nixa,#<State:0x000000048f7740>
+Kathy,Pointer,Lawson,#<State:0x000000048f42c0>
+Debby,Peterson,Jefferson City,#<State:0x000000048f0a08>
+Rex,Wilkinson,Greenfield,#<State:0x000000048ed330>
+John,Maempa,Springfield,#<State:0x000000048e9820>
+Jim,Wandell,West Plains,#<State:0x000000048e60a8>
+Brandon,Marler,Independence,#<State:0x000000048e24a8>
+Jean,Williams,Webb City,#<State:0x000000048df0f0>
+Cheryl,Leigh,Hillsboro,#<State:0x000000048dbd88>
+Jamie,Holocker,Sarcoxie,#<State:0x000000048d8660>
+Carol,Suchland,Troy,#<State:0x000000048d4e98>
+Virgil,Dennis,Eldon,#<State:0x000000048d1748>
+Stephanie,Simpson,Gainesville,#<State:0x000000048ce138>
+John,Chamness,Perryville,#<State:0x000000048cabc8>
+Elizabeth,Smith,Rolla,#<State:0x000000048c7338>
+Tonia,Samples,Kansas city,#<State:0x000000048c3b98>
+Elaine,Antal,Lancaster,#<State:0x000000048c0768>
+Vickie,Thompson,Lake Saint Louis,#<State:0x000000048bd180>
+Victor,Vidal,Florissant,#<State:0x000000048b9968>
+Lynda,Jenkins,Galena,#<State:0x000000048b6240>
+RICHARD,JONES,KIRBYVILLE,#<State:0x000000048b2af0>
+Bev,Ehlen,Warrenton,#<State:0x000000048af5f8>
+Arietta,Grimmett,Cascade,#<State:0x000000048ac2e0>
+Marina,Lott,"McCarley, MS",#<State:0x000000048a8fa0>
+Trish,Kobylarz,Southaven,#<State:0x000000048a55d0>
+Hope,Cochran,Brooklyn,#<State:0x000000048a17c8>
+Darrell,Taylor,Biloxi,#<State:0x0000000489de48>
+Andrea,Washington,Jackson,#<State:0x0000000489a860>
+Robby,Myrick,Pascagoula,#<State:0x00000004896990>
+Joshua,Lane,Meridian,#<State:0x00000004892bd8>
+Dell,Hatch,tupelo,#<State:0x0000000488edf8>
+Carrie,Samol,Brandon,#<State:0x0000000488b0e0>
+Sam,Laci,Hardin,#<State:0x00000004887300>
+Sharon,Thompson,Great Falls,#<State:0x00000004883958>
+Richard,Stewart,Bigfork,#<State:0x000000048804b0>
+Jim,Stewart,Helena,#<State:0x0000000487d120>
+robert,mast,Libby,#<State:0x00000004879d18>
+Erin,Haynie,Circle,#<State:0x000000048768e8>
+Nancy,Pendergast,Hamilton,#<State:0x00000004873580>
+bonnie,simms,taylorsville,#<State:0x000000048701a0>
+Pam,Ward,"Bladenboro, NC",#<State:0x0000000486cd20>
+Jonathan,Cheers,Shallotte,#<State:0x00000004869238>
+Andy,Boone,Concord,#<State:0x00000004865980>
+Karl,Bowden,Camden,#<State:0x000000048621e0>
+Randy,Miller,Chapel Hill,#<State:0x0000000485ec70>
+Michael,Barres,Andrews,#<State:0x0000000485b4a8>
+john,craver,mount holly,#<State:0x00000004858168>
+Tony,Hawkins,Hayesville,#<State:0x00000004854e28>
+Carol,Leake,NEW Bern,#<State:0x00000004851ac0>
+Jeff,Burkhardt,Stedman,#<State:0x0000000484db28>
+Janis,Adams,Moyock,#<State:0x000000048497d0>
+pastor DAVID,daniels,KILL DEVIL HILLS,#<State:0x000000048431c8>
+Leo,Bracken,Wallace,#<State:0x0000000483cb20>
+LaBonni,Alston,Durham,#<State:0x00000004836518>
+Tom & Earlene,Whittington,Cary,#<State:0x0000000482fe70>
+Connie,Rhyne,Dallas,#<State:0x000000048212a8>
+Linda,Stone,Greensboro,#<State:0x00000004816ee8>
+Wesley,Hamilton,Dunn,#<State:0x00000004810ca0>
+RHONDA,SMATHERS,Clyde,#<State:0x0000000480af08>
+Marcia,Ballard,Edneyville,#<State:0x000000047ed778>
+Greg,Laskowski,Statesville,#<State:0x000000047deea8>
+Kevin,Edwards,Four Oaks,#<State:0x000000047d51a0>
+patsy,payne,Boardway N.C.,#<State:0x000000047d0308>
+Alan,Hoyle,Lincolnton,#<State:0x000000047c4800>
+Nancy,Augustitus,Franklin,#<State:0x000000047bab20>
+Wendy,Potter,Nebo,#<State:0x000000047abb70>
+Rusty,Ewing,Rocky Mount,#<State:0x0000000479ec40>
+Shirley,Defendorf,Riegelwood,#<State:0x00000003de1590>
+Angie,Bailey,Jacksonville,#<State:0x00000003ddc5e0>
+Don,Westbrook,Durham,#<State:0x00000003dd3e90>
+MARGARET,TWIFORD,"Elizabeth City, NC",#<State:0x00000003dc85b8>
+Starr,Stephenson,Fountain,#<State:0x00000003dbf490>
+Joyia,Clayton,Asheboro,#<State:0x00000003db8be0>
+Virginia ,Locklear,Pembroke,#<State:0x00000003db1f48>
+Scott,Pace,Kannapolis,#<State:0x00000003da9528>
+Marty,Tew,Garland,#<State:0x00000003da1490>
+Essie,Davis,"Laurinburg, NC",#<State:0x00000003d9a910>
+Charles,Riggs,ALBEMARLE,#<State:0x00000003d92c88>
+Janine,Crisp,Bryson City,#<State:0x00000003d89368>
+Maureen,Etoroma,Raleigh,#<State:0x00000003d82e50>
+Lutrell,Spell,Fremont,#<State:0x00000003d79c10>
+Stella,Edwards,Edgeley,#<State:0x00000003d6efb8>
+Merna,Bredwick,Arnegard,#<State:0x00000003d68028>
+Kim,DeMars,Neche,#<State:0x00000003d608f0>
+David,Lee,Minot,#<State:0x00000003d59d98>
+Deb,Ruland,Williston,#<State:0x00000003d4ec40>
+John,Jones,Omaha,#<State:0x00000003d47cb0>
+Patricia,Ferguson,Ashby,#<State:0x00000003d3e5e8>
+Laurie,Hock,"North Platte, NE",#<State:0x00000003d36960>
+Timothy,Carter,Norfolk,#<State:0x00000003d2bd08>
+Nancy,Brant,Columbus,#<State:0x00000003d24918>
+Vicky,Hanseling,milford,#<State:0x00000003d1e888>
+Dick,AuCoin,Laconia,#<State:0x00000003d151e8>
+ Garrett,Lear,Sanbornville,#<State:0x00000003d0d448>
+Mac,Starring,Littleton,#<State:0x00000003d06170>
+Rev. Brian,Mclaughlin,Woodsville,#<State:0x00000003cff5c8>
+thomas,parker,manchester,#<State:0x00000003cf7b20>
+Mrs. Karen Lee,Reese,Epsom,#<State:0x00000003cf19a0>
+John,Fillmore,Londonderry,#<State:0x00000003cebaf0>
+Kathy,Towle,Gonic,#<State:0x00000003ce67d0>
+Nancy,Moore,Mauricetown,#<State:0x00000003ce0128>
+Althea,Gravesande,Irvington,#<State:0x00000003cda840>
+April,Larson,Woodbridge,#<State:0x00000003cd5048>
+Evelyn,Hines,Freehold,#<State:0x00000003ccf260>
+Robert,Benjamin,Toms River N.J.,#<State:0x00000003cc94a0>
+lisa,COSTABILE,HALEDON,#<State:0x00000003cc3410>
+earl,Sherrick,pennsville  nj08070,#<State:0x00000003cbc520>
+Oral,Thomas,Somerset,#<State:0x00000003bd5ee0>
+Renee,Cummings,Linden,#<State:0x00000003bced48>
+Melinda,Crosson-Finney,Phillipsburg,#<State:0x00000003bc0428>
+Keith,Riddle,Reserve,#<State:0x00000003bb2f30>
+DAVID C,HOLDRIDGE,Roswell,#<State:0x00000003ba8198>
+R.L.,Smith Jr.,Carlsbad,#<State:0x00000003704498>
+Michael,Smith,Hobbs,#<State:0x000000036af740>
+C. Wayne,Brooks,Ruidoso,#<State:0x00000003675810>
+Marilyn,Wright,Farmington,#<State:0x0000000366aaa0>
+Ginny,Rommel,Las Vegas,#<State:0x000000036616d0>
+Jerry,Porterfield,Winnemucca,#<State:0x00000003655150>
+Ingrid,Lentz,Reno,#<State:0x0000000364b448>
+Dr. Joe,Omeokwe,Bronx,#<State:0x00000003642488>
+Chaplain Desiree,Bernstein,"Brooklyn, New York",#<State:0x00000003638910>
+Cheryl,Zehr,Port Leyden,#<State:0x0000000362e640>
+Diane,Melograne,Oyster Bay,#<State:0x00000003628308>
+Rev Ann,Denig,Staten Island,#<State:0x0000000361f9d8>
+Carol,Schiavi,Bellerose,#<State:0x000000036156e0>
+Patrice,Taylor,Bay Shore,#<State:0x0000000360a740>
+Dawn,Darby,Ithaca,#<State:0x000000036020b8>
+Rev. Steve,Warnock,"Winchester,  Ohio",#<State:0x000000035f86f8>
+Joan,Zachariah,Ashland,#<State:0x000000035ef030>
+Robert,Tarasiak,Conneaut,#<State:0x000000035e6610>
+Kenneth,Farley,Middletown,#<State:0x000000035dd420>
+Carol,Godin,Springfield,#<State:0x000000035d3c90>
+Anthony ,L. Cooper,Bucyrus,#<State:0x000000035ca7d0>
+Amelia,Williams,Euclid,#<State:0x000000035bd1e8>
+Karen,Tedore,arcanum,#<State:0x000000035b6d48>
+Daniel,Maurer,Delaware,#<State:0x000000035aebc0>
+Wally,Ziolo,Lancaster,#<State:0x000000035a7988>
+Barbara,Gibson,Columbus,#<State:0x000000035927b8>
+kay,bond,beavercreek,#<State:0x0000000356f100>
+Stephanie,Sloan,"Cambridge, Ohio",#<State:0x000000035631e8>
+Shane,Montgomery,Hillsboro,#<State:0x0000000354a350>
+Judy,Seifert,Rockbridge,#<State:0x000000035231b0>
+Nancy,Lucas,Huntington,#<State:0x0000000351cc48>
+Thomas,Herold,Avon Lake,#<State:0x00000003510830>
+Blandine,Walls,Toledo,#<State:0x00000003505098>
+Clyde,Hughes,London,#<State:0x000000034fa1c0>
+Robert (Bob),Offeredahl,Youngstown,#<State:0x000000034e6300>
+James,Ward,Middletown,#<State:0x000000034d6a18>
+Amy ,Moore,Zanesville,#<State:0x000000034baea8>
+Joyce,Wolf,Mansfield,#<State:0x000000034ac5d8>
+Rex,King,Tiffin,#<State:0x000000034a4630>
+Ruth,Rodney,Sidney,#<State:0x0000000349e230>
+Rob,Cannon,Canton,#<State:0x0000000348c760>
+Brenda,Jenkins,N. Bloomfield,#<State:0x00000003480c58>
+Shirley,Henry,Port Washington,#<State:0x00000003476348>
+Cheryl,Johnson,Lebanon,#<State:0x00000003469b98>
+Sherry,Lasley,Bunch,#<State:0x0000000344b210>
+Verna,McCulley,Turpin,#<State:0x0000000343f438>
+James,Southerland,Ardmore,#<State:0x00000003430d98>
+Garland,Thomas,Tahlequah,#<State:0x00000003429a70>
+Delbert,White,Coalgate,#<State:0x0000000341ec10>
+Jeanie,Brinkley,Clinton,#<State:0x000000034035c8>
+Pat,Walter,Covington,#<State:0x000000033ec1c0>
+Linda,Pendley,Pauls Valley,#<State:0x000000033e2bc0>
+Jon,Ewers,Holdenville,#<State:0x000000033cdd88>
+Mike,Shepherd,Blackwell,#<State:0x000000033afb30>
+David & Cheryl,Rhodes,Snyder,#<State:0x000000033a59a0>
+Roger,Mattox,Poteau,#<State:0x0000000338ae20>
+Carmella,Cavers,Chandler,#<State:0x00000003376100>
+Pascual,Espinoza,Pryor,#<State:0x0000000336af30>
+Ed,Clark,Wright City,#<State:0x0000000334f410>
+Janece,Jones,Muskogee,#<State:0x00000003337fb8>
+Brenda,Radford,Midwest City,#<State:0x0000000332f1d8>
+Suzan,Stephens,Henryetta,#<State:0x00000003316ac0>
+Mary,Murphy,Stillwater,#<State:0x000000032db650>
+Vonda,Shackelford,McAlester,#<State:0x000000032d02a0>
+Cathy,Myers,Shawnee,#<State:0x000000032b20c0>
+Laura,Mong,Elk City,#<State:0x00000003280fc0>
+renee,goad,Sallisaw,#<State:0x00000003253728>
+Don,Bickford,Tulsa,#<State:0x00000003244890>
+carmel,field,broken arrow,#<State:0x00000003227038>
+"William ""Bill""",Hale,Coos Bay,#<State:0x00000003218a38>
+ABIGAIL,HOSTETLER,BEND,#<State:0x00000003209b50>
+Cheryl,Pitcairn,Roseburg,#<State:0x000000031fede0>
+Cord,Mathewson,Shady Cove,#<State:0x000000031f4368>
+Wanda,Wells`,Bufer,#<State:0x000000031ec0a0>
+Minnie,Stoumbaugh,Beaverton,#<State:0x000000031e05e8>
+Linda,Staley,York Springs,#<State:0x000000031d4680>
+Patricia Ian,Adams,Allegheny Township,#<State:0x000000031caba8>
+Steve,Hadding,Leesport,#<State:0x000000031bb090>
+David,Stiles,Curryville,#<State:0x000000031ad5d0>
+Don,Noonan,Bensalem,#<State:0x000000031a6348>
+Gust,Maderia,Grampian,#<State:0x0000000319eff8>
+Jason,Lamer,Mechanicsburg,#<State:0x00000003198040>
+Mimi,Dorschu,Broomall,#<State:0x0000000318e978>
+Kim,Cooney,Erie,#<State:0x00000003186160>
+Margaret,Frey,Stahlstown,#<State:0x0000000317f7e8>
+Charlotte,McMillen,West Finley,#<State:0x00000003179b90>
+Rodney,Murphy,Hazle Township,#<State:0x000000031742a8>
+Mark,Hengst,Pottstown,#<State:0x0000000316f5c8>
+Rev. Kerry ,Heckman,"Bath,  PA",#<State:0x00000003169a38>
+william,oliver,philadelphia,#<State:0x00000003163a98>
+Evangalist James,Willard,Washington,#<State:0x0000000315d6e8>
+Barbara,Cecil,Delmont,#<State:0x00000002ae37e0>
+Jason,Lamer,Dillsburg,#<State:0x00000002ab7640>
+Cheryl,Russell,West Warwick,#<State:0x00000002a8f960>
+Ted,Kritz,Newport,#<State:0x00000002a72b58>
+Frank,Joyal,Cranston,#<State:0x00000002a569f8>
+Jane,Stach,Saunderdtown,#<State:0x00000002a3de30>
+Rev. Wayne,Tyler,Calhoun Falls,#<State:0x00000002a2f790>
+Robert,Skelton,Warrenville,#<State:0x00000002a1fdb8>
+Aaron,Staley,Allendale,#<State:0x00000002a03348>
+Kevin,Jones,Anderson,#<State:0x000000029ecda0>
+Susan,Collins,Bamberg,#<State:0x000000029df998>
+Obed,Ortiz,Barnwell,#<State:0x000000029cbd30>
+Milton K.,Stubblefield,Beaufort,#<State:0x000000029ae398>
+Frances,Nelson,Monks Corner,#<State:0x0000000298e6d8>
+Rev. Bobby G.,Williams,St. Matthews,#<State:0x0000000296bd40>
+Harvey,Fields,North Charleston,#<State:0x00000002952368>
+Rev. Rayce,Wolgemuth,Blacksburg,#<State:0x00000002941888>
+Walter,Mitchum,Chester,#<State:0x000000029223c0>
+Steven,Thompson,Jefferson,#<State:0x00000002905a18>
+Richard Christopher ,Smith,Manning,#<State:0x000000028f0118>
+John,Harbin,Walterboro,#<State:0x000000028cdd70>
+Donald,Childers,Hartsville,#<State:0x000000028b7b60>
+Joe,Grice,Dillon,#<State:0x000000028a0320>
+Lena,Gilley,Charleston,#<State:0x0000000287f030>
+Steve,Hall,Aiken,#<State:0x0000000286cbd8>
+Rev. Lisa,Smith,Winnsboro,#<State:0x00000002844868>
+Tammy,James,Coward,#<State:0x00000002813510>
+Ossie,Deese,Georgetown,#<State:0x000000027b94e8>
+Rev. Bill,Case,Fountain Inn,#<State:0x0000000265a660>
+J. Richard,Saxon,Greenwood,#<State:0x000000026169d8>
+D. Kevin,Byrd,Hampton,#<State:0x000000025ca628>
+Stuart,Jacobs,Conway,#<State:0x0000000259ab80>
+Roger,Smoak,Cottageville,#<State:0x0000000256c4d8>
+Chad,Smith,Camden,#<State:0x000000025380c0>
+Altherea Goode,Howard,Lancaster,#<State:0x000000024f1148>
+James,Petty,Laurens,#<State:0x0000000248e430>
+Robert,Nettles,Bishopville,#<State:0x00000002471038>
+H. L.,Allen,Lexington,#<State:0x00000002436ff0>
+Allen,Black,Marion,#<State:0x00000002416048>
+Scott,Shirley,Bennettsville,#<State:0x000000023f9150>
+Albert,Bell,McCormick,#<State:0x000000023c31e0>
+John ,Notter Jr.,Whitmire,#<State:0x0000000237de38>
+John ,Notter Jr.,Whitmire,#<State:0x00000002347c20>
+Wayne,Morton,Westminster,#<State:0x0000000231fdb0>
+Lawrence,Cook,Brunson,#<State:0x000000022da170>
+Bobby,Person,Liberty,#<State:0x000000022b4448>
+Reverend Vincent,Collins,Columbia,#<State:0x00000002271558>
+Darrell,Wilbanks,Whitmire,#<State:0x0000000222e370>
+,,,#<State:0x000000021ff4f8>
+Rev. Matthew,Wilkie,Sumter,#<State:0x00000002160ba0>
+Wayne,Ludlam,Rock Hill,#<State:0x00000001c2ae38>
+Rhonda,Goodwin,Hickory Grove,#<State:0x00000001be63c8>
+Audrey,Smidt,"Aberdeen, SD",#<State:0x00000001b93df8>
+Marcine,Tiahrt,Meckling,#<State:0x00000001b42110>
+Pam,Gaikowski,Watertown,#<State:0x00000001aa13a0>
+David,Winter,Sturgis,#<State:0x00000001a5ad88>
+keven,walker,lennox,#<State:0x000000019aafa0>
+ Rev/Chaplain Linda ,Johnson,"Sioux Falls, SD",#<State:0x000000018f16b8>
+Tony,McAfee,Lake City,#<State:0x000000017fbad8>
+Kay,Horner,Cleveland,#<State:0x000000017d2228>
+Milton,Gordon,Huntingdon,#<State:0x0000000176a768>
+Autry,Ferrell,Manchester,#<State:0x000000016d76c0>
+Sarah,Lowe,Nashville,#<State:0x000000016ae180>
+Linda,Mangrum,Burns,#<State:0x0000000166fe80>
+Jim,Payne,Yorkville,#<State:0x000000015f1da0>
+Daniel,Allen,Pulaski,#<State:0x00000001572460>
+Linda,Hayes,Thornhill,#<State:0x0000000144a5b0>
+Sarah Frances,Corder,Afton,#<State:0x000000013efca0>
+Lynda,Tyler,Chattanooga,#<State:0x0000000124cba0>
+Eddie,Kessler,Bolivar,#<State:0x00000001925490>
+Sheldon,Livesay,Rogersville,#<State:0x000000031f5718>
+Bill,Moody,Paris,#<State:0x00000003bd0558>
+Roscoe & Lois,Patrick,McEwen,#<State:0x00000004885190>
+Samuel,Parker,Dandridge,#<State:0x000000049774e0>
+Larry,Keith,Knoxville,#<State:0x00000004973c50>
+Dr. Roy,"Harkness,Sr.",Ripley,#<State:0x000000049703c0>
+Harold,Carman,Lafayette,#<State:0x0000000496ca90>
+Janice,Skinner,Athens,#<State:0x000000049692a0>
+Jim,West,Petros,#<State:0x000000049658a8>
+James,Dobbs,Linden,#<State:0x00000004962180>
+Jerry,Stephens,Benton,#<State:0x0000000495e7b0>
+Jacob,Miles,Dayton,#<State:0x0000000495aea8>
+Sonny,Works,Kingston,#<State:0x00000004957500>
+Georgia,Chambers,Robbins,#<State:0x00000004953cc0>
+Sandra,Roach,Sevierville,#<State:0x00000004950458>
+Gail,Duron,Germantown,#<State:0x0000000494c9c0>
+Lynn,Reinking,Carthage,#<State:0x000000049492e8>
+Barbara,Clark,Clarksville,#<State:0x00000004945990>
+Dianne,Ellis,Portland,#<State:0x00000004942088>
+Elsa,Marra,Maynardville,#<State:0x0000000493e870>
+Freddie,Harding,Spencer,#<State:0x0000000493b0d0>
+Julie,Carter,Franklin,#<State:0x000000049375c0>
+Lisa,Reid,Mt Juliet,#<State:0x00000004933df8>
+David,Lamon,Lufkin,#<State:0x0000000492fd48>
+Perry,Holt,Bandera,#<State:0x0000000492be50>
+Wendy ,Zimmerman,Harker Heights ,#<State:0x00000004927d78>
+Wayne,Clark,SanAntonio,#<State:0x00000004923bd8>
+Phil,Thompson,Blanco,#<State:0x0000000491f8d0>
+Rodger,"Dove, Jr.",Whitney,#<State:0x0000000491b550>
+Bob,Hankins,West Columbia,#<State:0x00000004916f00>
+Linda,Rice,Bryan,#<State:0x00000004912f18>
+michael,sweetman,brownwood,#<State:0x0000000490f2f0>
+cynthia,klentzman,burnet,#<State:0x0000000490bba0>
+elizabeth,dierlam,Brownsville,#<State:0x000000049082e8>
+Ron,Odom,"Jacksonville, Texas",#<State:0x00000004904b20>
+Sue,Powell,Spring Branch,#<State:0x00000004901240>
+Delma,Walters,"Comanche, TX",#<State:0x000000048fdb68>
+C. Michele,Kelsey,Kemper,#<State:0x000000048fa490>
+Bryan,Moore,Plano,#<State:0x000000048f68b8>
+dan,branthoover,krugerville,#<State:0x000000048f3320>
+Terry,Brown,Cuero,#<State:0x000000048ef6d0>
+Laurie,Whitlock,Waxahachie,#<State:0x000000048ebb98>
+Theresa,Lemke,Dublin,#<State:0x000000048e7fc0>
+John,Hoelzel,Ivanhoe,#<State:0x000000048e4168>
+Darrin,Vail,La Grange,#<State:0x000000048e08b0>
+Ernest,Statuto,Crowell,#<State:0x000000048dd1d8>
+KAMAL,SANUSI,HOUSTON,#<State:0x000000048d9948>
+Kerry,McMahon,mexia,#<State:0x000000048d5ed8>
+Mary,Bostrom,Texas City,#<State:0x000000048d24b8>
+FELIX,AWOTULA,"Houston, Texas",#<State:0x000000048cec28>
+Claudia,Smith,Dripping Springs,#<State:0x000000048cb190>
+Tommy,Hayes,Makakoff,#<State:0x000000048c75e0>
+Sarah,Parrales,McAllen,#<State:0x000000048c3b48>
+Michael,McReynolds,Hillsboro,#<State:0x000000048c0448>
+Donna,McWilliams,Levelland,#<State:0x000000048bcaf0>
+Linda,Harvey,Granbury,#<State:0x000000048b9030>
+Tobbie,Davis,Greenville,#<State:0x000000048b5688>
+Linda,Spencer,Beaumont,#<State:0x000000048b1da8>
+Jace,Chiles,Alice,#<State:0x000000048ae658>
+Kurt & Carol,Medders,Burleson,#<State:0x000000048ab020>
+Buford,Ness,Hamlin,#<State:0x000000048a79e8>
+kathey,floyd,mabank,#<State:0x000000048a3a00>
+Ada,Rose,comfort,#<State:0x0000000489f9f0>
+clare,trowbridge,HUNT,#<State:0x0000000489c340>
+Steven,Solis,Kingsville,#<State:0x00000004898510>
+Larry,Bridges,Blossom,#<State:0x00000004894438>
+Dwayne,Word,Centerville,#<State:0x000000048903b0>
+mary,thomas,mexia,#<State:0x0000000488c260>
+Sandra,Meeks,Lubbock,#<State:0x000000048880c0>
+Linda,Franciskovich,Bay City,#<State:0x00000004884358>
+Mike,Barbour,Brady,#<State:0x00000004880af0>
+Andy,Hunt,New Caney,#<State:0x0000000487d418>
+Cindy,Hyde,Nacogdoches,#<State:0x00000004879d68>
+Dan,Layne,Corsicana,#<State:0x000000048765f0>
+Georgia,Haney,Sweetwater,#<State:0x00000004873008>
+Drusilla,Knight-Villarreal,Corpus Christi,#<State:0x0000000486f980>
+Rhonda,Brown,Palo Pinto,#<State:0x0000000486c348>
+mary jo,williams,azle,#<State:0x000000048682c0>
+Jim,Palmer,Livingston,#<State:0x00000004864a30>
+Sherry,Livingston,Amarillo,#<State:0x00000004861060>
+Sylas,Politte,Eldorado,#<State:0x0000000485da00>
+Katherine,Shaffer,Tyler,#<State:0x0000000485a030>
+Thomas,Echols,Crowley,#<State:0x00000004856a98>
+Betty Lou,Smith,San Angelo,#<State:0x00000004853528>
+Terry,Haecker,Cedar Park,#<State:0x0000000484ff18>
+Jennifer,Kelley,Rankin,#<State:0x0000000484bad0>
+Nita,Graves,Huntsville,#<State:0x000000048452c0>
+Lori,Dehmer,Brenham,#<State:0x0000000483e628>
+Julie,Steiner,WHarton,#<State:0x00000004837b98>
+Victor,Welch,Wichita Falls,#<State:0x00000004830fa0>
+Michael,Efird,Georgetown,#<State:0x00000004821f50>
+D. A.,Sharpe,Aurora,#<State:0x00000004818680>
+Thommy & Krissi,Green,Salt Lake City,#<State:0x00000004810d18>
+Rania,Tillman,Tooele,#<State:0x0000000480a800>
+Jerry,Killmon,Craddockville,#<State:0x000000047ecf58>
+Charlene,Herold,Alexandria,#<State:0x000000047d8788>
+Dors,Robinson,Lynch Station,#<State:0x000000047d36e8>
+Chuck,Harmon,Winston-Salem,#<State:0x000000047ce440>
+Barbara,Edwards,Charlottesville,#<State:0x000000047c34c8>
+Joanne,Tavolacci,Chesapeake,#<State:0x000000047b94a0>
+Josh,Lumley,Richmond,#<State:0x000000047a8588>
+Bill,Frasnelli,Fairfax,#<State:0x0000000479bdd8>
+Rev. Kaye S.,Kready,Bealeton,#<State:0x00000003dde7a0>
+Sherri,Heishman,Stephens City,#<State:0x00000003dd8648>
+Jack,Smith,"Gloucester, VA",#<State:0x00000003dcd450>
+Martin,Ferenc,Hampton,#<State:0x00000003dc2168>
+Amy Lisa,Williams,"Mechanicsville, VA",#<State:0x00000003dba7b0>
+Linda,Will,Blue Grass,#<State:0x00000003db3398>
+Crystal,Humes,Manassas,#<State:0x00000003daa590>
+Russell,Evenson,Newport News,#<State:0x00000003da3650>
+David,Smalley,Petersburg,#<State:0x00000003d9b158>
+Nancye,Ricketts,Danville,#<State:0x00000003d92d50>
+Linda,Kimball,Prince George,#<State:0x00000003d88f58>
+Stephen,Oni,Woodbridge,#<State:0x00000003d82478>
+Zane,Cox,Radford,#<State:0x00000003d78b30>
+Joanne,Johnson,Richmond,#<State:0x00000003d6d5a0>
+Sherylann,Bragton,Fredericksburg,#<State:0x00000003d66818>
+Bishop Richard,Callahan,"Williston, Vermont",#<State:0x00000003d5e618>
+C. Andrew,Chrysler,Swanton,#<State:0x00000003d52ac0>
+Deb,Bensen,Cambridge,#<State:0x00000003d4bb08>
+Eileen,Burnor,Newport,#<State:0x00000003d44a38>
+Alice,Bale,"Kennewick,",#<State:0x00000003d3a5d8>
+Marva C.,Mackin,Kelso,#<State:0x00000003d30948>
+Leigh,Broten,Montesano,#<State:0x00000003d279d8>
+Nancy,Dragseth,Port Townsend,#<State:0x00000003d20908>
+Yvette,Stanley,Olympia,#<State:0x00000003d16a20>
+Barbara,Phillips,Kittitas,#<State:0x00000003d0f6d0>
+DeWayne,LaPointe,Ocean Park,#<State:0x00000003d073e0>
+Monica,Narciso,Puyallup,#<State:0x00000003d00270>
+Teri,Austin,Anacortes,#<State:0x00000003cf8110>
+Stephen,Pidgeon,Snohomish,#<State:0x00000003cf1a90>
+Elizabeth,Hughes,Federal Way,#<State:0x00000003ceb7d0>
+Charles V.,Smith,Cathlamet,#<State:0x00000003ce5cb8>
+Cary,Wiik,Ashland,#<State:0x00000003cdf098>
+Karyn,Schauf,Barron,#<State:0x00000003cd98f0>
+Carolyn,Marquardt,Webster,#<State:0x00000003cd3978>
+Carol,Conklin,Milwaukee,#<State:0x00000003ccd2f8>
+Donald,Baum,Dresser,#<State:0x00000003cc7830>
+Sherilyn,Liscomb,Racine,#<State:0x00000003cc0d50>
+Starlet,Joles,lonerock,#<State:0x00000003cb9780>
+David,Meding,Beloit,#<State:0x00000003bd3258>
+Laurel,Harmon,Jackson,#<State:0x00000003bc4bb8>
+Mary Beth,Volz,"Sussex,WI",#<State:0x00000003bbbbd0>
+David,Mickelson,Wisconsin Rapids,#<State:0x00000003baa920>
+Karen,Richards,Salem,#<State:0x000000037070d0>
+Wendy,Goldizen,Cabins,#<State:0x000000036c2b88>
+Judy,Moyer,Lost City,#<State:0x00000003681c00>
+Elnora,Ganoe,Clarksburg,#<State:0x0000000366bc48>
+Marquita,McIntyre,Evans,#<State:0x00000003662080>
+Tracey,Kelvington,Charles Town,#<State:0x00000003655830>
+John and Karen,Cantley,Dawes,#<State:0x0000000364acc8>
+Michael,Hartwell,Logan,#<State:0x00000003641970>
+Pastor Ray L.,Crabtree,Whitehall,#<State:0x00000003637498>
+Carl,Thomas,"Bluefield, WV",#<State:0x0000000362d768>
+Jessica,Holoden,Scott Depot,#<State:0x00000003626a08>
+Ken,Wright,Daniels,#<State:0x0000000361d7f0>
+Seth,Patterson,Middleburne,#<State:0x00000003612d28>
+Tim,Baer,Parkersburg,#<State:0x00000003607900>
+Cecil,Thompson,Glen Fork,#<State:0x000000035fdd38>
+Linda,Hough,Laramie,#<State:0x000000035f3a18>
+Virginia,Brauher,Greybull,#<State:0x000000035eb020>
+Andrew,Puryear,Sheridan,#<State:0x000000035e1548>
+Kimberly,Delacruz,Worland,#<State:0x000000035d8268>
+Jose ,Bosque,Jacksonville,#<State:0x000000035cd818>
+Alan,Smith,Kingstree,#<State:0x000000035bf7b8>
+Nancy,Walker,Wilmington,#<State:0x000000035b8850>
+Rev. Diane,Hodgson,Sumter,#<State:0x000000035b1fa0>
+Michael,Coward,Boiling Springs,#<State:0x000000035a86a8>
+Rev. Jeff,Grubb,Camden,#<State:0x0000000359e590>
+Evangelist James,Willard  C.O. Bible Believers Chapel,Taylorstown,#<State:0x0000000356f1a0>
+Thomas,Moore,Seven Springs,#<State:0x0000000355cd70>

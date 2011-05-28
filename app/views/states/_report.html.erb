@@ -1,0 +1,12 @@
+<table border="1">
+  <tr>
+    <th>County Name</th>
+  </tr>
+  <% @states.each do |u| %>
+		<% u.counties.each do |county|
+  <tr>
+   <td><%= county.name %></td>
+		<% end %>
+  <% end %>
+ </tr>
+</table>
