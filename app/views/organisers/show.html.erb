@@ -1,6 +1,6 @@
 <p id="notice"><%= notice %></p>
 <% if @state.organiser %>
-<h2><%= @state.name %> State Organiser</h2>
+<h2><%= @state.name %> State Coordinator</h2>
 <p><strong><%= @state.organiser.firstname %> <%= @state.organiser.lastname%></strong> is serving as the state coordinator for <%= @state.name %>. <br />
 <%= @state.organiser.phone %><br />
 <a href="mailto:<%= @state.organiser.email %>"><%= @state.organiser.email %></p>
