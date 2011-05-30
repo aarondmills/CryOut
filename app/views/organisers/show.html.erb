@@ -1,45 +1,23 @@
 <p id="notice"><%= notice %></p>
+<% if @state.organiser %>
+<h2><%= @state.name %> State Organiser</h2>
+<p><strong><%= @state.organiser.firstname %> <%= @state.organiser.lastname%></strong> is serving as the state coordinator for <%= @state.name %>. <br />
+<%= @state.organiser.phone %><br />
+<a href="mailto:<%= @state.organiser.email %>"><%= @state.organiser.email %></p>
 
-<p>
-  <b>Firstname:</b>
-  <%= @organiser.firstname %>
-</p>
-
-<p>
-  <b>Lastname:</b>
-  <%= @organiser.lastname %>
-</p>
-
-<p>
-  <b>Email:</b>
-  <%= @organiser.email %>
-</p>
-
-<p>
-  <b>Phone:</b>
-  <%= @organiser.phone %>
-</p>
-
-<p>
-  <b>Street:</b>
-  <%= @organiser.street %>
-</p>
-
-<p>
-  <b>City:</b>
-  <%= @organiser.city %>
-</p>
-
-<p>
-  <b>State:</b>
-  <%= @organiser.state_id %>
-</p>
-
-<p>
-  <b>Zipcode:</b>
-  <%= @organiser.zipcode %>
-</p>
+<% else %>
+<h2><%= @state.name %></h2>
+<p>This State Needs a Coordinator! You can submit your application below:</p>
+<script type="text/javascript">var host = (("https:" == document.location.protocol) ? "https://secure." : "http://");document.write(unescape("%3Cscript src='" + host + "wufoo.com/scripts/embed/form.js' type='text/javascript'%3E%3C/script%3E"));</script><script type="text/javascript">
+var m7p2a3 = new WufooForm();
+m7p2a3.initialize({
+'userName':'socialmedia101', 
+'formHash':'m7p2a3', 
+'autoResize':true,
+'height':'846', 
+'ssl':true});
+m7p2a3.display();
+</script>
+<% end %>
 
 
-<%= link_to 'Edit', edit_organiser_path(@organiser) %> |
-<%= link_to 'Back', organisers_path %>

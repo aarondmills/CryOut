@@ -3,6 +3,7 @@ class OrganisersController < ApplicationController
   # GET /organisers.xml
   def index
     @organisers = Organiser.all
+		@states = State.all
 
     respond_to do |format|
       format.html # index.html.erb
@@ -13,7 +14,7 @@ class OrganisersController < ApplicationController
   # GET /organisers/1
   # GET /organisers/1.xml
   def show
-    @organiser = Organiser.find(params[:id])
+    @state = State.find(params[:id])
 
     respond_to do |format|
       format.html # show.html.erb
